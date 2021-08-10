@@ -93,3 +93,17 @@
 |April|28|National |Superhero Day
 |April|29|International |Dance Day 
 |April|30|International |Jazz Day 
+|May|01|National |Labor Day 
+|May|03|National |World Press Freedom Day 
+|May|06|National |Martyrs Day |Lebanon 
+|May|07|National |Thank A Teacher Day 
+|May|15|International |Day Of Families 
+|May|16|International |Day of Light 
+|May|18|International |Museum Day 
+|May|21|National |Mother's Day 
+|May|24|National |Brothers Day 
+|May|25|National |Resistance & Liberation Day 
+|May|25|National |National Wine Day 
+|May|28|National |Burger Day 
+|May|31|National |Individual Rights Day 
+|May|31|National |World No Tobacco Day 
