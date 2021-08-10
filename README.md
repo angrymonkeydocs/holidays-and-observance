@@ -147,3 +147,11 @@
 |June|30|International | Friendship Day 
 |June|31|National |Avocado Day
 |June|31|National |Raspberry Cake Day 
+|August|01|National |Lebanese Army Day |Lebanon 
+|August|02|National |Coloring Book Day 
+|August|04|National |Mustard Day 
+|August|06|National |Friendship Day 
+|August|08|Interntional |Cat Day 
+|August|10|National |Lazy Day 
+
+|August|
