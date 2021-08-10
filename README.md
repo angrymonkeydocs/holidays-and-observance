@@ -84,7 +84,7 @@
 |April|12|National |Grilled Cheese Sand Day 
 |April|13|International |Easter 
 |April|15|National | Get To Know Your Customers Day 
-|april|17|National| World Hemophilia Day 
+|April|17|National| World Hemophilia Day 
 |April|18|International |Passover(end)
 |April|19|National |Garlic Day 
 |April|22|National |Earth Day 
@@ -132,4 +132,18 @@
 |June|07|National |World Chocolate Day 
 |June|13|National |French Fry Day 
 |June|14|National |Mac And Cheese Day 
-|June|16|
+|June|16|National |Third Sunday 
+|June|17|National |World Emoji Day 
+|June|18|International |Nelson Mandela Day
+|June|21|National |Junk Food Day 
+|June|22|National |Hot Dog Day 
+|June|23|National |Vanilla Ice Cream Day 
+|June|23|National |Gorgeous Grandma Day 
+|June|26|National |Coffee Milkshake Day 
+|June|28|National |Parent's Day 
+|June|29|International |Tiger Day
+|June|29|National |lipstick Day 
+|June|29|Local |Adha|Lebanon 
+|June|30|International |Day Of Friendship
+|June|31|National |Avocado Day
+|June|31|National |Raspberry Cake Day 
