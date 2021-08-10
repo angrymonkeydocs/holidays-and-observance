@@ -107,3 +107,18 @@
 |May|28|National |Burger Day 
 |May|31|National |Individual Rights Day 
 |May|31|National |World No Tobacco Day 
+|June|01|National |Nail apolish Day 
+|June|01|International |Childern's day 
+|June|02|National |Cancer survivor's Day 
+|June|03|National |Egg Day
+|June|04|National |Cheese Day 
+|June|05|National |Veggie Burger Day 
+|June|07|National |Donut Day 
+|June|08|National |Bestfriend Day 
+|June|08|National |World Oceans Day 
+|June|12|National |Red Rose Day 
+|June|14|National |World Blood donor Day 
+|June|15|National |Nature Photography Day 
+|June|20|---|Start Of Summer 
+|June|21|National |World Music Day
+|June|21|National |
