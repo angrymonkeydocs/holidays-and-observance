@@ -45,5 +45,5 @@
 |February |23|National |Lent Season Begins 
 |February |24|National |Tortilla Chip Day 
 |February |26|National |Pistacho Day 
-|february |28|National |Mardi Gras 
+|February |28|National |Mardi Gras 
 |February |28|National |Tooth Fairy Day 
