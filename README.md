@@ -75,7 +75,7 @@
 |April|07|National |World Health Day 
 |April|07|National |Beer Day 
 |April|08|National |Zoo Lovers Day ?
-|April|08|International |Holy thursday 
+|April|08|International |Holy Thursday 
 |April|09|International |Good Friday
 |April|10|National|Siblings Day 
 |April|11|International |Passover(start)
@@ -86,8 +86,8 @@
 |april|17|National| World Hemophilia Day 
 |April|18|International |Passover(end)
 |April|19|National |Garlic Day 
-|April|22|National |Earth Day |
-|April|23|National |Ramadan |
+|April|22|National |Earth Day 
+|April|23|National |Ramadan 
 |April|23|National |World Book & Copyright Day 
 |April|25|National |Telephone Day 
 |April|28|National |Superhero Day
