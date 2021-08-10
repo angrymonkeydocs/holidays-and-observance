@@ -68,3 +68,17 @@
 |March|25|National |Waffle Day 
 |March|29|National |Night light Savings 
 |March|30|National |Doctors Day 
+|April|01|National |Fools Day 
+|April|02|National |World Autism Awerness Day 
+|April|03|National |Walking Day 
+|April|05|International |Palm Sunday |Lebanon 
+|April|07|National |World Health Day 
+|April|07|National |Beer Day 
+|April|08|National |Zoo Lovers Day ?
+|April|08|International |Holy thursday 
+|April|09|International |Good Friday
+|April|10|National|Siblings Day 
+|April|11|International |Passover(start)
+|April|11|National |Pet Day 
+|April|12|National |Grilled Cheese Sand Day 
+|April|13|International|Easter 
