@@ -47,3 +47,24 @@
 |February |26|National |Pistacho Day 
 |February |28|National |Mardi Gras 
 |February |28|National |Tooth Fairy Day 
+|March |01|National |Ash Day 
+|March |02|National |Old Staff Day 
+|March |03|National |World Wildlife Day 
+|March |04|National |Grammar Day 
+|March |06|National |Friendship day 
+|March |08|International Day |Women Day 
+|March |09|National |Teacher's Day 
+|March |10|National |Pack Your Lunch Day 
+|March |12|National |Plant a Flower Day 
+|March |13|National |jewel Day 
+|March |14|National |Children Craft Day 
+|March |16|National |Panda Day 
+|March |17|National |Saint Patrick's Day 
+|March |19|National |Chocolate Caramel Day 
+|March |20|---|Start Of Spring 
+|March |21|National |Mother's Day |Lebanon 
+|March |22|National |World Water Day 
+|March|25|National |Feast The annuaciation 
+|March|25|National |Waffle Day 
+|March|29|National |Night light Savings 
+|March|30|National |Doctors Day 
