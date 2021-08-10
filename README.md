@@ -166,4 +166,16 @@
 |August|26|National |Dog day 
 |August|27|National |Forgivness day 
 |August|28|National |First Day Of Ashura 
-|august|31|National |Eat Outside Day 
+|August|31|National |Eat Outside Day 
+|September|01|National |Back To School Time 
+|September|04|National |Wildlife Day 
+|September|05|National |Be Late For Something  Day 
+|September|08|National |Nativity Of Mary |Lebanon 
+|September|09|National |Hug Your Boss Day 
+|September|13|National |Positive Thinking Day 
+|September|18|National |Cheese Burger Day 
+|September|20|National |Pepperoni Pizza Day 
+|September|21|International |Peace Day 
+|September|22|---|Start Of Autumn 
+|September|25|National |Women's Health & Fitness Day 
+|September|27|National |World Tourism Day 
