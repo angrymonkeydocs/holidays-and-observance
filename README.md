@@ -86,3 +86,10 @@
 |april|17|National| World Hemophilia Day 
 |April|18|International |Passover(end)
 |April|19|National |Garlic Day 
+|April|22|National |Earth Day |
+|April|23|National |Ramadan |
+|April|23|National |World Book & Copyright Day 
+|April|25|National |Telephone Day 
+|April|28|National |Superhero Day
+|April|29|International |Dance Day 
+|April|30|International |Jazz Day 
