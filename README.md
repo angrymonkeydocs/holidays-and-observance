@@ -153,5 +153,17 @@
 |August|06|National |Friendship Day 
 |August|08|Interntional |Cat Day 
 |August|10|National |Lazy Day 
-
-|August|
+|August|11|National |Sons And Daughters Day 
+|August|12|International |Youth Day 
+|August|13|National |Left Handers Day 
+|August|15|National |Assumption Of Mary|Lebanon
+|August|16|National |Tell A Joke Day 
+|August|18|National |Fajita Day
+|August|19|National |Potato Day 
+|August|22|National |Eid El Adha 
+|August|24|National |Waffle Day 
+|August|25|National |Women's Equality Day 
+|August|26|National |Dog day 
+|August|27|National |Forgivness day 
+|August|28|National |First Day Of Ashura 
+|august|31|National |Eat Outside Day 
