@@ -151,7 +151,7 @@
 |August|02|National |Coloring Book Day 
 |August|04|National |Mustard Day 
 |August|06|National |Friendship Day 
-|August|08|Interntional |Cat Day 
+|August|08|International |Cat Day 
 |August|10|National |Lazy Day 
 |August|11|National |Sons And Daughters Day 
 |August|12|International |Youth Day 
