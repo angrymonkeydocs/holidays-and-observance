@@ -142,8 +142,8 @@
 |June|26|National |Coffee Milkshake Day 
 |June|28|National |Parent's Day 
 |June|29|International |Tiger Day
-|June|29|National |lipstick Day 
-|June|29|Local |Adha|Lebanon 
-|June|30|International |Day Of Friendship
+|June|29|National |Lipstick Day 
+|June|29|National  |Adha 
+|June|30|International | Friendship Day 
 |June|31|National |Avocado Day
 |June|31|National |Raspberry Cake Day 
