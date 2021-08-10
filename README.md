@@ -52,6 +52,7 @@
 |March |03|National |World Wildlife Day 
 |March |04|National |Grammar Day 
 |March |06|National |Friendship day 
+|March|06|National |Oreo Day 
 |March |08|International Day |Women Day 
 |March |09|National |Teacher's Day 
 |March |10|National |Pack Your Lunch Day 
@@ -125,3 +126,10 @@
 |June|21|national |Father's Day 
 |June|22|National |Onion Rings Day
 |June|30|National |Social Media Day 
+|June|01|National |Creative Ice cream flavors Day 
+|June|04|National |Independence Day |USA
+|June|06|National |Fried Chicken Day
+|June|07|National |World Chocolate Day 
+|June|13|National |French Fry Day 
+|June|14|National |Mac And Cheese Day 
+|June|16|
