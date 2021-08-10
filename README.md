@@ -74,7 +74,7 @@
 |April|05|International |Palm Sunday |Lebanon 
 |April|07|National |World Health Day 
 |April|07|National |Beer Day 
-|April|08|National |Zoo Lovers Day ?
+|April|08|National |Zoo Lovers Day 
 |April|08|International |Holy Thursday 
 |April|09|International |Good Friday
 |April|10|National|Siblings Day 
