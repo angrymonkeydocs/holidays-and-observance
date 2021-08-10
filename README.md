@@ -95,7 +95,7 @@
 |April|30|International |Jazz Day 
 |May|01|National |Labor Day 
 |May|03|National |World Press Freedom Day 
-|May|06|National |Martyrs Day |Lebanon 
+|May|06|National |Martyrs Day  
 |May|07|National |Thank A Teacher Day 
 |May|15|International |Day Of Families 
 |May|16|International |Day of Light 
