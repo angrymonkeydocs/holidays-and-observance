@@ -28,3 +28,22 @@
 |January |29 |National |Puzzle Day 
 |January |30 |National |Croissant Day 
 |January |31 |National |Hot Chocolate day 
+|February |01 |National |Serpent Day 
+|February |04 |National |World Cancer Day 
+|February |05 |National |Nutella Day 
+|February |06 |National |Chopsticks Day 
+|Fberuary |08 |National |Kite Flying day 
+|February |09 |International |Saint Maroun Day | Lebanon
+|Februray |09 |National |Pizza Day 
+|February |10 |National |Umbrella Day
+|February |13 |National |Radio Day 
+|February |14 |International |Valentine's  Day 
+|February |14 |Local |Rafic Hariri Memorial Day |Lebanon
+|Februray |17|National |Random Acts Of Kindness Day 
+|February |20|National |Love Your Pet Day 
+|February |22|National |Margarita Day 
+|February |23|National |Lent Season Begins 
+|February |24|National |Tortilla Chip Day 
+|February |26|National |Pistacho Day 
+|february |28|National |Mardi Gras 
+|February |28|National |Tooth Fairy Day 
