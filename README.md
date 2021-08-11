@@ -203,4 +203,27 @@
 |October|25|National |Greasy day 
 |October|28|National |Chocolate Day 
 |October|29|National |Cat Day 
-|October|32|National |HALLOWEEN 
+|October|31|National |HALLOWEEN 
+|November|01|National |All Saint's Day 
+|November|01|national |No Shave November 
+|November|02|National |Deviled Egg Day
+|November|03|National |Sandwich day  
+|November|04|National |Candy Day Thanksgiving 
+|November|05|National |Doughnut Day 
+|November|06|National |Nachos Day 
+|November|08|National |Cappuccino Day 
+|November|10|National |Vanilla Cupcake Day 
+|November|12|National |Pizza Day 
+|November|13|National |World Kindness day 
+|November|14|National |Pickle Day 
+|November|15|National |Assumption Of Mary 
+|November|16|National |Fast Food Day 
+|November|17|National |Homemade Bread 
+|November|17|National |Students day 
+|November|19|International |Men's Day 
+|November|20|National |Universal Childern's Day 
+|November|21|National |World Hello Day
+|November|21|National |World TV Day
+|November|22|Local |Independence Day |Lebanon 
+|November|24|National |Black Friday 
+|November|30|National |Mawlid El Nabi 
