@@ -187,7 +187,7 @@
 |October|06|National |World Smile Day 
 |October|07|National |Chocolate Covered Pretzel Day 
 |October|09|Natioinal|Pro-Life Cupcake Day 
-|October|10|National|CAke Decorating Day 
+|October|10|National |CAke Decorating Day 
 |October|11|National |Sausage Pizza Day
 |October|12|National |Farmer's day
 |October|13|National |No Bra Day 
@@ -241,9 +241,9 @@
 |December|14|National |Monkey Day 
 |December|15|National |Ugly Christmas sweater Day 
 |December|20|International |Human Solidarity Day 
-|December|21|--- |start Of winter
+|December|21|--- |Start Of Winter
 |December|25|International |CHRISTMAS
-|December|26|National |Thank YOU Note Day
+|December|26|National |Thank You Note Day
 |December|27|National |Visit The Zoo Day 
 |December|28|National |Holy Innocents 
 |December|30|National |Bacon Day 
