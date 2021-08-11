@@ -179,3 +179,28 @@
 |September|22|---|Start Of Autumn 
 |September|25|National |Women's Health & Fitness Day 
 |September|27|National |World Tourism Day 
+|october|01|International |Cofee Day World Vegeterain Day PINKTOBER 
+|October|02|National |Wlk To School Day 
+|October|03|National |Boyfriend Day 
+October|04|National |World Animal Day 
+|October|05|National |Do Smething Nice Day 
+|October|06|National |World Smile Day 
+|October|07|National |Chocolate Covered Pretzel Day 
+|October|09|Natioinal|Pro-Life Cupcake Day 
+|October|10|National|CAke Decorating Day 
+|October|11|National |Sausage Pizza Day
+|October|12|National |Farmer's day
+|October|13|National |No Bra Day 
+|October|14|National |Dessert Day 
+|October|16|National |Boss's Day 
+|October|16|National |World Food Day 
+|october|17|National |Pasta Day 
+|October|18|National |Chocolate Cupcake Day 
+|October|19|National |Sweetness Day 
+|October|21|Natioinal |Pumkin Cheesecake Day 
+|October|22|National  |Color Day 
+|Pctober|24|National |Food Day 
+|October|25|National |Greasy day 
+|October|28|National |Chocolate Day 
+|October|29|National |Cat Day 
+|october|32|National |HALLOWEEN 
