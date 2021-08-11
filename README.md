@@ -227,3 +227,24 @@
 |November|22|Local |Independence Day |Lebanon 
 |November|24|National |Black Friday 
 |November|30|National |Mawlid El Nabi 
+|December|01|National |Mawlid El Nabawi
+|December|01|National |Pie Day 
+|December|01|International |Start Of Christmas Season 
+|December|02|National |Cyber Monday 
+|December|03|National |Doctors Day
+|December|04|National |Cookie Day
+|December|08|National |Brownie Day
+|December|09|National |Pastry Day 
+|December|10|National |Human Rights Day 
+|December|11|National |App Day 
+|December|13|National |Day Of Horse 
+|December|14|National |Monkey Day 
+|December|15|National |Ugly Christmas sweater Day 
+|December|20|International |Human Solidarity Day 
+|December|21|--- |start Of winter
+|December|25|International |CHRISTMAS
+|December|26|National |Thank YOU Note Day
+|December|27|National |Visit The Zoo Day 
+|December|28|National |Holy Innocents 
+|December|30|National |Bacon Day 
+|December|31|International |NEW YEAR'S EVE 
