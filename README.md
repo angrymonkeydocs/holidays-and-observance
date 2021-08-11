@@ -182,7 +182,7 @@
 |october|01|International |Cofee Day World Vegeterain Day PINKTOBER 
 |October|02|National |Wlk To School Day 
 |October|03|National |Boyfriend Day 
-October|04|National |World Animal Day 
+|October|04|National |World Animal Day 
 |October|05|National |Do Smething Nice Day 
 |October|06|National |World Smile Day 
 |October|07|National |Chocolate Covered Pretzel Day 
@@ -199,8 +199,8 @@ October|04|National |World Animal Day
 |October|19|National |Sweetness Day 
 |October|21|Natioinal |Pumkin Cheesecake Day 
 |October|22|National  |Color Day 
-|Pctober|24|National |Food Day 
+|October|24|National |Food Day 
 |October|25|National |Greasy day 
 |October|28|National |Chocolate Day 
 |October|29|National |Cat Day 
-|october|32|National |HALLOWEEN 
+|October|32|National |HALLOWEEN 
