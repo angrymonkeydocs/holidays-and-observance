@@ -122,7 +122,7 @@
 |June|15|National |Nature Photography Day 
 |June|20|---|Start Of Summer 
 |June|21|National |World Music Day
-|June|21|National |Yoga Day
+|June|21|International |Yoga Day
 |June|21|national |Father's Day 
 |June|22|National |Onion Rings Day
 |June|30|National |Social Media Day 
