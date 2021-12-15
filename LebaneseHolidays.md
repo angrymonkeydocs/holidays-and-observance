@@ -28,3 +28,5 @@
 |July  |11 |Eid al Adha 
 |July  |30 |Islamic New Year
 |August |08| Ashura 
+|August |15 |Assumption of the Virgin Mary
+ 
