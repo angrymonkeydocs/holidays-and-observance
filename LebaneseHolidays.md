@@ -22,4 +22,9 @@
 |April |22 |Good Friday |Orthodox Church
 |April |24 |Easter |Orthodox Church 
 |April |25 |Easter |Orthodox Church
-|
+|May   |01 |Labor Day 
+|May   |02 |Eid al Fitr |Ramadan 
+|July  |10 |Eid al Adha
+|July  |11 |Eid al Adha 
+|July  |30 |Islamic New Year
+|August |08| Ashura 
