@@ -182,7 +182,7 @@
 |September|25|National |Women's Health & Fitness Day 
 |September|27|National |World Tourism Day 
 |october|01|International |Cofee Day World Vegeterain Day PINKTOBER 
-|October|02|National |Wlk To School Day 
+|October|02|National |Walk To School Day 
 |October|03|National |Boyfriend Day 
 |October|04|National |World Animal Day 
 |October|05|National |Do Smething Nice Day 
