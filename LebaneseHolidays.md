@@ -16,17 +16,17 @@
 |February |09 |Saint Maroun Day 
 |February |14 |Rafic Hariri Memorial Day 
 |March |25 |Feast of Annunciation
-|April |15 |Good Friday |Catholic Church
-|April |17 |Easter |Catholic Church 
-|April |18 |Easter |Catholic Church
-|April |22 |Good Friday |Orthodox Church
-|April |24 |Easter |Orthodox Church 
-|April |25 |Easter |Orthodox Church
-|May   |01 |Labor Day 
+|April |15 |Good Friday |Western Church
+|April |17 |Easter |Western Church
+|April |18 |Easter |Western Church
+|April |22 |Good Friday |Eastern Church
+|April |24 |Easter |Eastern Church 
+|April |25 |Easter |Eastern Church
+|May   |01 |Labor Day |it's not a day off
 |May   |02 |Eid al Fitr |Ramadan 
 |July  |10 |Eid al Adha
 |July  |11 |Eid al Adha 
-|July  |30 |Islamic New Year
+|July  |30 |Hijri New Year
 |August |08| Ashura 
 |August |15 |Assumption of the Virgin Mary
 |October |08 |Prophets Day
