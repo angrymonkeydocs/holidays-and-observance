@@ -12,7 +12,7 @@
 |Month |Day |Name |Notes
 | --- | --- | --- |--- 
 |January |01 |New Year's Day 
-|January |06 |Christmas Day |Armenian Church
+|January |06 |Armenian Christmas Day |Armenian Church
 |February |09 |Saint Maroun Day 
 |February |14 |Rafic Hariri Memorial Day 
 |March |25 |Feast of Annunciation
