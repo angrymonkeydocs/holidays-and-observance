@@ -9,7 +9,7 @@
 
 # Official Lebanese Holidays for 2022 
 
-|Month |Day |Name |Notes
+|Month |Day |Name |Notes 
 | --- | --- | --- |--- 
 |January |01 |New Year's Day 
 |January |06 |Armenian Christmas Day |Armenian Church
@@ -23,12 +23,11 @@
 |April |24 |Easter |Eastern Church 
 |April |25 |Easter |Eastern Church
 |May   |01 |Labor Day |it's not a day off
-|May   |02 |Eid al Fitr |Ramadan 
-|July  |10 |Eid al Adha
-|July  |11 |Eid al Adha 
-|July  |30 |Hijri New Year
-|August |08| Ashura 
+|May   |02 |Eid al Fitr |Ramadan Flexible
+|July  |11 |Eid al Adha |Flexible
+|July  |30 |Hijri New Year|Flexible
+|August |08| Ashura       |Flexible
 |August |15 |Assumption of the Virgin Mary
-|October |08 |Prophets Day
+|October |08 |Prophets Day |Flexible
 |November |22 |Independence Day
 |December |25 |Christmas Day
