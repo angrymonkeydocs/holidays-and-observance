@@ -17,10 +17,8 @@
 |February |14 |Rafic Hariri Memorial Day 
 |March |25 |Feast of Annunciation
 |April |15 |Good Friday |Western Church
-|April |17 |Easter |Western Church
 |April |18 |Easter |Western Church
 |April |22 |Good Friday |Eastern Church
-|April |24 |Easter |Eastern Church 
 |April |25 |Easter |Eastern Church
 |May   |01 |Labor Day |it's not a day off
 |May   |02 |Eid al Fitr |Ramadan Flexible
