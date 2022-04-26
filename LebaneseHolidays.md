@@ -20,7 +20,7 @@
 |April |18 |Easter day |Western Church
 |April |22 |Good Friday|Eastern Church
 |April |25 |Easter day |Eastern Church
-|May   |01 |Labor Day  |it's not a day off
+|May   |01 |Labor Day  |On 3 may day-off
 |May   |02 |Eid al Fitr |Ramadan Flexible
 |July  |09|Eid al Adha  |Flexible
 |July  |30 |Hijri New Year|Flexible
