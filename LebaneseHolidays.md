@@ -22,6 +22,7 @@
 |April |25 |Easter day |Eastern Church
 |May   |01 |Labor Day  |On 3 may day-off
 |May   |02 |Eid al Fitr |Ramadan Flexible
+|May   |25 |Liberation and Resistance Day
 |July  |09|Eid al Adha  |Flexible
 |July  |30 |Hijri New Year|Flexible
 |August |08| Ashura       |Flexible
